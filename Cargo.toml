@@ -1,0 +1,4 @@
+[workspace]
+members = ["acpica-sys", "acpica-rs"]
+resolver = "2"
+
